@@ -1,0 +1,5 @@
+<build>
+	<exclude file="../source/Bigfont4metrics-semiround-215x180.mc" />
+	<exclude file="../source/Bigfont4metrics-round-218x218.mc" />
+	<exclude file="../source/Bigfont4metrics-rectangle-205x148.mc" />
+</build>
