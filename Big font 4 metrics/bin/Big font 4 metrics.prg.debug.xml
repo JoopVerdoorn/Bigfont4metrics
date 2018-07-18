@@ -1,181 +1,148 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <debugInfo>
 <pcToLineNum>
-<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics\\.\\source\\Bigfont4metrics-round-218x218.mc" lineNum="3" pc="268435456" symbol="initialize"/>
-<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics\\.\\source\\Bigfont4metrics-round-218x218.mc" lineNum="4" pc="268435460" symbol="initialize"/>
-<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics\\.\\source\\Bigfont4metrics-round-218x218.mc" lineNum="8" pc="268435479" symbol="getInitialView"/>
-<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics\\.\\source\\Bigfont4metrics-round-218x218.mc" lineNum="9" pc="268435483" symbol="getInitialView"/>
-<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics\\.\\source\\Bigfont4metrics-round-218x218.mc" lineNum="53" pc="268435521" symbol="initialize"/>
-<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics\\.\\source\\Bigfont4metrics-round-218x218.mc" lineNum="54" pc="268435525" symbol="initialize"/>
-<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics\\.\\source\\Bigfont4metrics-round-218x218.mc" lineNum="56" pc="268435543" symbol="initialize"/>
-<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics\\.\\source\\Bigfont4metrics-round-218x218.mc" lineNum="59" pc="268435585" symbol="initialize"/>
-<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics\\.\\source\\Bigfont4metrics-round-218x218.mc" lineNum="60" pc="268435604" symbol="initialize"/>
-<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics\\.\\source\\Bigfont4metrics-round-218x218.mc" lineNum="61" pc="268435628" symbol="initialize"/>
-<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics\\.\\source\\Bigfont4metrics-round-218x218.mc" lineNum="63" pc="268435652" symbol="initialize"/>
-<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics\\.\\source\\Bigfont4metrics-round-218x218.mc" lineNum="64" pc="268435693" symbol="initialize"/>
-<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics\\.\\source\\Bigfont4metrics-round-218x218.mc" lineNum="67" pc="268435709" symbol="initialize"/>
-<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics\\.\\source\\Bigfont4metrics-round-218x218.mc" lineNum="68" pc="268435750" symbol="initialize"/>
-<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics\\.\\source\\Bigfont4metrics-round-218x218.mc" lineNum="75" pc="268435767" symbol="compute"/>
-<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics\\.\\source\\Bigfont4metrics-round-218x218.mc" lineNum="76" pc="268435771" symbol="compute"/>
-<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics\\.\\source\\Bigfont4metrics-round-218x218.mc" lineNum="78" pc="268435782" symbol="compute"/>
-<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics\\.\\source\\Bigfont4metrics-round-218x218.mc" lineNum="79" pc="268435813" symbol="compute"/>
-<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics\\.\\source\\Bigfont4metrics-round-218x218.mc" lineNum="80" pc="268435826" symbol="compute"/>
-<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics\\.\\source\\Bigfont4metrics-round-218x218.mc" lineNum="90" pc="268435843" symbol="onTimerStart"/>
-<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics\\.\\source\\Bigfont4metrics-round-218x218.mc" lineNum="91" pc="268435847" symbol="onTimerStart"/>
-<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics\\.\\source\\Bigfont4metrics-round-218x218.mc" lineNum="92" pc="268435859" symbol="onTimerStart"/>
-<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics\\.\\source\\Bigfont4metrics-round-218x218.mc" lineNum="97" pc="268435870" symbol="onTimerStop"/>
-<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics\\.\\source\\Bigfont4metrics-round-218x218.mc" lineNum="98" pc="268435874" symbol="onTimerStop"/>
-<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics\\.\\source\\Bigfont4metrics-round-218x218.mc" lineNum="99" pc="268435886" symbol="onTimerStop"/>
-<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics\\.\\source\\Bigfont4metrics-round-218x218.mc" lineNum="104" pc="268435897" symbol="onTimerResume"/>
-<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics\\.\\source\\Bigfont4metrics-round-218x218.mc" lineNum="105" pc="268435901" symbol="onTimerResume"/>
-<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics\\.\\source\\Bigfont4metrics-round-218x218.mc" lineNum="110" pc="268435912" symbol="onTimerPause"/>
-<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics\\.\\source\\Bigfont4metrics-round-218x218.mc" lineNum="111" pc="268435916" symbol="onTimerPause"/>
-<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics\\.\\source\\Bigfont4metrics-round-218x218.mc" lineNum="118" pc="268435927" symbol="startStopPushed"/>
-<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics\\.\\source\\Bigfont4metrics-round-218x218.mc" lineNum="119" pc="268435931" symbol="startStopPushed"/>
-<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics\\.\\source\\Bigfont4metrics-round-218x218.mc" lineNum="120" pc="268435950" symbol="startStopPushed"/>
-<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics\\.\\source\\Bigfont4metrics-round-218x218.mc" lineNum="125" pc="268435967" symbol="onTimerReset"/>
-<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics\\.\\source\\Bigfont4metrics-round-218x218.mc" lineNum="127" pc="268435971" symbol="onTimerReset"/>
-<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics\\.\\source\\Bigfont4metrics-round-218x218.mc" lineNum="133" pc="268435985" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics\\.\\source\\Bigfont4metrics-round-218x218.mc" lineNum="134" pc="268435989" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics\\.\\source\\Bigfont4metrics-round-218x218.mc" lineNum="135" pc="268436008" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics\\.\\source\\Bigfont4metrics-round-218x218.mc" lineNum="136" pc="268436008" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics\\.\\source\\Bigfont4metrics-round-218x218.mc" lineNum="137" pc="268436045" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics\\.\\source\\Bigfont4metrics-round-218x218.mc" lineNum="142" pc="268436082" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics\\.\\source\\Bigfont4metrics-round-218x218.mc" lineNum="143" pc="268436098" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics\\.\\source\\Bigfont4metrics-round-218x218.mc" lineNum="144" pc="268436126" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics\\.\\source\\Bigfont4metrics-round-218x218.mc" lineNum="145" pc="268436158" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics\\.\\source\\Bigfont4metrics-round-218x218.mc" lineNum="147" pc="268436190" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics\\.\\source\\Bigfont4metrics-round-218x218.mc" lineNum="148" pc="268436197" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics\\.\\source\\Bigfont4metrics-round-218x218.mc" lineNum="149" pc="268436210" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics\\.\\source\\Bigfont4metrics-round-218x218.mc" lineNum="150" pc="268436220" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics\\.\\source\\Bigfont4metrics-round-218x218.mc" lineNum="151" pc="268436233" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics\\.\\source\\Bigfont4metrics-round-218x218.mc" lineNum="152" pc="268436253" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics\\.\\source\\Bigfont4metrics-round-218x218.mc" lineNum="153" pc="268436272" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics\\.\\source\\Bigfont4metrics-round-218x218.mc" lineNum="154" pc="268436292" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics\\.\\source\\Bigfont4metrics-round-218x218.mc" lineNum="155" pc="268436311" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics\\.\\source\\Bigfont4metrics-round-218x218.mc" lineNum="156" pc="268436331" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics\\.\\source\\Bigfont4metrics-round-218x218.mc" lineNum="157" pc="268436350" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics\\.\\source\\Bigfont4metrics-round-218x218.mc" lineNum="158" pc="268436370" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics\\.\\source\\Bigfont4metrics-round-218x218.mc" lineNum="162" pc="268436395" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics\\.\\source\\Bigfont4metrics-round-218x218.mc" lineNum="163" pc="268436423" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics\\.\\source\\Bigfont4metrics-round-218x218.mc" lineNum="166" pc="268436455" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics\\.\\source\\Bigfont4metrics-round-218x218.mc" lineNum="167" pc="268436471" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics\\.\\source\\Bigfont4metrics-round-218x218.mc" lineNum="168" pc="268436504" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics\\.\\source\\Bigfont4metrics-round-218x218.mc" lineNum="169" pc="268436511" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics\\.\\source\\Bigfont4metrics-round-218x218.mc" lineNum="170" pc="268436544" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics\\.\\source\\Bigfont4metrics-round-218x218.mc" lineNum="172" pc="268436557" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics\\.\\source\\Bigfont4metrics-round-218x218.mc" lineNum="173" pc="268436568" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics\\.\\source\\Bigfont4metrics-round-218x218.mc" lineNum="174" pc="268436581" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics\\.\\source\\Bigfont4metrics-round-218x218.mc" lineNum="175" pc="268436592" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics\\.\\source\\Bigfont4metrics-round-218x218.mc" lineNum="176" pc="268436611" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics\\.\\source\\Bigfont4metrics-round-218x218.mc" lineNum="177" pc="268436622" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics\\.\\source\\Bigfont4metrics-round-218x218.mc" lineNum="179" pc="268436641" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics\\.\\source\\Bigfont4metrics-round-218x218.mc" lineNum="183" pc="268436663" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics\\.\\source\\Bigfont4metrics-round-218x218.mc" lineNum="184" pc="268436691" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics\\.\\source\\Bigfont4metrics-round-218x218.mc" lineNum="187" pc="268436723" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics\\.\\source\\Bigfont4metrics-round-218x218.mc" lineNum="188" pc="268436763" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics\\.\\source\\Bigfont4metrics-round-218x218.mc" lineNum="189" pc="268436780" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics\\.\\source\\Bigfont4metrics-round-218x218.mc" lineNum="190" pc="268436812" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics\\.\\source\\Bigfont4metrics-round-218x218.mc" lineNum="192" pc="268436844" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics\\.\\source\\Bigfont4metrics-round-218x218.mc" lineNum="199" pc="268436884" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics\\.\\source\\Bigfont4metrics-round-218x218.mc" lineNum="200" pc="268436900" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics\\.\\source\\Bigfont4metrics-round-218x218.mc" lineNum="202" pc="268436928" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics\\.\\source\\Bigfont4metrics-round-218x218.mc" lineNum="203" pc="268436935" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics\\.\\source\\Bigfont4metrics-round-218x218.mc" lineNum="204" pc="268436942" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics\\.\\source\\Bigfont4metrics-round-218x218.mc" lineNum="205" pc="268436949" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics\\.\\source\\Bigfont4metrics-round-218x218.mc" lineNum="207" pc="268436956" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics\\.\\source\\Bigfont4metrics-round-218x218.mc" lineNum="208" pc="268436963" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics\\.\\source\\Bigfont4metrics-round-218x218.mc" lineNum="209" pc="268436970" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics\\.\\source\\Bigfont4metrics-round-218x218.mc" lineNum="210" pc="268436977" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics\\.\\source\\Bigfont4metrics-round-218x218.mc" lineNum="212" pc="268436984" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics\\.\\source\\Bigfont4metrics-round-218x218.mc" lineNum="213" pc="268436991" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics\\.\\source\\Bigfont4metrics-round-218x218.mc" lineNum="214" pc="268436998" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics\\.\\source\\Bigfont4metrics-round-218x218.mc" lineNum="215" pc="268437005" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics\\.\\source\\Bigfont4metrics-round-218x218.mc" lineNum="217" pc="268437012" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics\\.\\source\\Bigfont4metrics-round-218x218.mc" lineNum="218" pc="268437019" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics\\.\\source\\Bigfont4metrics-round-218x218.mc" lineNum="219" pc="268437026" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics\\.\\source\\Bigfont4metrics-round-218x218.mc" lineNum="220" pc="268437033" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics\\.\\source\\Bigfont4metrics-round-218x218.mc" lineNum="224" pc="268437040" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics\\.\\source\\Bigfont4metrics-round-218x218.mc" lineNum="225" pc="268437047" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics\\.\\source\\Bigfont4metrics-round-218x218.mc" lineNum="226" pc="268437060" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics\\.\\source\\Bigfont4metrics-round-218x218.mc" lineNum="230" pc="268437079" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics\\.\\source\\Bigfont4metrics-round-218x218.mc" lineNum="231" pc="268437103" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics\\.\\source\\Bigfont4metrics-round-218x218.mc" lineNum="232" pc="268437136" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics\\.\\source\\Bigfont4metrics-round-218x218.mc" lineNum="233" pc="268437140" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics\\.\\source\\Bigfont4metrics-round-218x218.mc" lineNum="235" pc="268437151" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics\\.\\source\\Bigfont4metrics-round-218x218.mc" lineNum="236" pc="268437210" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics\\.\\source\\Bigfont4metrics-round-218x218.mc" lineNum="237" pc="268437220" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics\\.\\source\\Bigfont4metrics-round-218x218.mc" lineNum="239" pc="268437290" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics\\.\\source\\Bigfont4metrics-round-218x218.mc" lineNum="240" pc="268437339" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics\\.\\source\\Bigfont4metrics-round-218x218.mc" lineNum="243" pc="268437391" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics\\.\\source\\Bigfont4metrics-round-218x218.mc" lineNum="244" pc="268437431" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics\\.\\source\\Bigfont4metrics-round-218x218.mc" lineNum="245" pc="268437438" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics\\.\\source\\Bigfont4metrics-round-218x218.mc" lineNum="246" pc="268437449" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics\\.\\source\\Bigfont4metrics-round-218x218.mc" lineNum="248" pc="268437459" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics\\.\\source\\Bigfont4metrics-round-218x218.mc" lineNum="249" pc="268437519" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics\\.\\source\\Bigfont4metrics-round-218x218.mc" lineNum="252" pc="268437571" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics\\.\\source\\Bigfont4metrics-round-218x218.mc" lineNum="253" pc="268437578" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics\\.\\source\\Bigfont4metrics-round-218x218.mc" lineNum="254" pc="268437585" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics\\.\\source\\Bigfont4metrics-round-218x218.mc" lineNum="257" pc="268437618" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics\\.\\source\\Bigfont4metrics-round-218x218.mc" lineNum="258" pc="268437631" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics\\.\\source\\Bigfont4metrics-round-218x218.mc" lineNum="259" pc="268437647" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics\\.\\source\\Bigfont4metrics-round-218x218.mc" lineNum="260" pc="268437663" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics\\.\\source\\Bigfont4metrics-round-218x218.mc" lineNum="261" pc="268437679" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics\\.\\source\\Bigfont4metrics-round-218x218.mc" lineNum="262" pc="268437695" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics\\.\\source\\Bigfont4metrics-round-218x218.mc" lineNum="264" pc="268437714" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics\\.\\source\\Bigfont4metrics-round-218x218.mc" lineNum="265" pc="268437730" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics\\.\\source\\Bigfont4metrics-round-218x218.mc" lineNum="266" pc="268437746" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics\\.\\source\\Bigfont4metrics-round-218x218.mc" lineNum="267" pc="268437762" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics\\.\\source\\Bigfont4metrics-round-218x218.mc" lineNum="268" pc="268437778" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics\\.\\source\\Bigfont4metrics-round-218x218.mc" lineNum="270" pc="268437791" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics\\.\\source\\Bigfont4metrics-round-218x218.mc" lineNum="271" pc="268437843" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics\\.\\source\\Bigfont4metrics-round-218x218.mc" lineNum="272" pc="268437854" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics\\.\\source\\Bigfont4metrics-round-218x218.mc" lineNum="274" pc="268437908" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics\\.\\source\\Bigfont4metrics-round-218x218.mc" lineNum="277" pc="268437912" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics\\.\\source\\Bigfont4metrics-round-218x218.mc" lineNum="279" pc="268437975" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics\\.\\source\\Bigfont4metrics-round-218x218.mc" lineNum="282" pc="268438027" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics\\.\\source\\Bigfont4metrics-round-218x218.mc" lineNum="283" pc="268438076" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics\\.\\source\\Bigfont4metrics-round-218x218.mc" lineNum="288" pc="268438129" symbol="fmtPace"/>
-<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics\\.\\source\\Bigfont4metrics-round-218x218.mc" lineNum="289" pc="268438133" symbol="fmtPace"/>
-<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics\\.\\source\\Bigfont4metrics-round-218x218.mc" lineNum="290" pc="268438155" symbol="fmtPace"/>
-<entry filename="Rez" lineNum="25" pc="268438208" symbol="MainLayout"/>
-<entry filename="Rez" lineNum="29" pc="268438220" symbol="MainLayout"/>
-<entry filename="Rez" lineNum="30" pc="268438244" symbol="MainLayout"/>
-<entry filename="Rez" lineNum="31" pc="268438407" symbol="MainLayout"/>
-<entry filename="Rez" lineNum="32" pc="268438432" symbol="MainLayout"/>
-<entry filename="Rez" lineNum="33" pc="268438484" symbol="MainLayout"/>
-<entry filename="Rez" lineNum="34" pc="268438530" symbol="MainLayout"/>
-<entry filename="Rez" lineNum="35" pc="268438693" symbol="MainLayout"/>
-<entry filename="Rez" lineNum="36" pc="268438718" symbol="MainLayout"/>
-<entry filename="Rez" lineNum="37" pc="268438770" symbol="MainLayout"/>
-<entry filename="Rez" lineNum="40" pc="268438816" symbol="MainLayout"/>
-<entry filename="Rez" lineNum="49" pc="268438854" symbol="TopLeftLayout"/>
-<entry filename="Rez" lineNum="53" pc="268438866" symbol="TopLeftLayout"/>
-<entry filename="Rez" lineNum="54" pc="268438890" symbol="TopLeftLayout"/>
-<entry filename="Rez" lineNum="55" pc="268439023" symbol="TopLeftLayout"/>
-<entry filename="Rez" lineNum="58" pc="268439156" symbol="TopLeftLayout"/>
-<entry filename="Rez" lineNum="67" pc="268439194" symbol="TopRightLayout"/>
-<entry filename="Rez" lineNum="71" pc="268439206" symbol="TopRightLayout"/>
-<entry filename="Rez" lineNum="72" pc="268439230" symbol="TopRightLayout"/>
-<entry filename="Rez" lineNum="73" pc="268439363" symbol="TopRightLayout"/>
-<entry filename="Rez" lineNum="76" pc="268439496" symbol="TopRightLayout"/>
-<entry filename="Rez" lineNum="85" pc="268439534" symbol="BottomLeftLayout"/>
-<entry filename="Rez" lineNum="89" pc="268439546" symbol="BottomLeftLayout"/>
-<entry filename="Rez" lineNum="90" pc="268439570" symbol="BottomLeftLayout"/>
-<entry filename="Rez" lineNum="91" pc="268439703" symbol="BottomLeftLayout"/>
-<entry filename="Rez" lineNum="94" pc="268439836" symbol="BottomLeftLayout"/>
-<entry filename="Rez" lineNum="103" pc="268439874" symbol="BottomRightLayout"/>
-<entry filename="Rez" lineNum="107" pc="268439886" symbol="BottomRightLayout"/>
-<entry filename="Rez" lineNum="108" pc="268439910" symbol="BottomRightLayout"/>
-<entry filename="Rez" lineNum="109" pc="268440043" symbol="BottomRightLayout"/>
-<entry filename="Rez" lineNum="112" pc="268440176" symbol="BottomRightLayout"/>
+<entry filename="C:\\Users\\Joop\\git\\Bigfont4metrics\\Big font 4 metrics\\.\\source\\Bigfont4metrics-semiround-215x180.mc" lineNum="3" pc="268435456" symbol="initialize"/>
+<entry filename="C:\\Users\\Joop\\git\\Bigfont4metrics\\Big font 4 metrics\\.\\source\\Bigfont4metrics-semiround-215x180.mc" lineNum="4" pc="268435460" symbol="initialize"/>
+<entry filename="C:\\Users\\Joop\\git\\Bigfont4metrics\\Big font 4 metrics\\.\\source\\Bigfont4metrics-semiround-215x180.mc" lineNum="8" pc="268435479" symbol="getInitialView"/>
+<entry filename="C:\\Users\\Joop\\git\\Bigfont4metrics\\Big font 4 metrics\\.\\source\\Bigfont4metrics-semiround-215x180.mc" lineNum="9" pc="268435483" symbol="getInitialView"/>
+<entry filename="C:\\Users\\Joop\\git\\Bigfont4metrics\\Big font 4 metrics\\.\\source\\Bigfont4metrics-semiround-215x180.mc" lineNum="53" pc="268435521" symbol="initialize"/>
+<entry filename="C:\\Users\\Joop\\git\\Bigfont4metrics\\Big font 4 metrics\\.\\source\\Bigfont4metrics-semiround-215x180.mc" lineNum="54" pc="268435525" symbol="initialize"/>
+<entry filename="C:\\Users\\Joop\\git\\Bigfont4metrics\\Big font 4 metrics\\.\\source\\Bigfont4metrics-semiround-215x180.mc" lineNum="56" pc="268435543" symbol="initialize"/>
+<entry filename="C:\\Users\\Joop\\git\\Bigfont4metrics\\Big font 4 metrics\\.\\source\\Bigfont4metrics-semiround-215x180.mc" lineNum="59" pc="268435585" symbol="initialize"/>
+<entry filename="C:\\Users\\Joop\\git\\Bigfont4metrics\\Big font 4 metrics\\.\\source\\Bigfont4metrics-semiround-215x180.mc" lineNum="60" pc="268435604" symbol="initialize"/>
+<entry filename="C:\\Users\\Joop\\git\\Bigfont4metrics\\Big font 4 metrics\\.\\source\\Bigfont4metrics-semiround-215x180.mc" lineNum="61" pc="268435628" symbol="initialize"/>
+<entry filename="C:\\Users\\Joop\\git\\Bigfont4metrics\\Big font 4 metrics\\.\\source\\Bigfont4metrics-semiround-215x180.mc" lineNum="63" pc="268435652" symbol="initialize"/>
+<entry filename="C:\\Users\\Joop\\git\\Bigfont4metrics\\Big font 4 metrics\\.\\source\\Bigfont4metrics-semiround-215x180.mc" lineNum="64" pc="268435693" symbol="initialize"/>
+<entry filename="C:\\Users\\Joop\\git\\Bigfont4metrics\\Big font 4 metrics\\.\\source\\Bigfont4metrics-semiround-215x180.mc" lineNum="67" pc="268435709" symbol="initialize"/>
+<entry filename="C:\\Users\\Joop\\git\\Bigfont4metrics\\Big font 4 metrics\\.\\source\\Bigfont4metrics-semiround-215x180.mc" lineNum="68" pc="268435750" symbol="initialize"/>
+<entry filename="C:\\Users\\Joop\\git\\Bigfont4metrics\\Big font 4 metrics\\.\\source\\Bigfont4metrics-semiround-215x180.mc" lineNum="75" pc="268435767" symbol="compute"/>
+<entry filename="C:\\Users\\Joop\\git\\Bigfont4metrics\\Big font 4 metrics\\.\\source\\Bigfont4metrics-semiround-215x180.mc" lineNum="76" pc="268435771" symbol="compute"/>
+<entry filename="C:\\Users\\Joop\\git\\Bigfont4metrics\\Big font 4 metrics\\.\\source\\Bigfont4metrics-semiround-215x180.mc" lineNum="78" pc="268435782" symbol="compute"/>
+<entry filename="C:\\Users\\Joop\\git\\Bigfont4metrics\\Big font 4 metrics\\.\\source\\Bigfont4metrics-semiround-215x180.mc" lineNum="79" pc="268435813" symbol="compute"/>
+<entry filename="C:\\Users\\Joop\\git\\Bigfont4metrics\\Big font 4 metrics\\.\\source\\Bigfont4metrics-semiround-215x180.mc" lineNum="80" pc="268435826" symbol="compute"/>
+<entry filename="C:\\Users\\Joop\\git\\Bigfont4metrics\\Big font 4 metrics\\.\\source\\Bigfont4metrics-semiround-215x180.mc" lineNum="90" pc="268435843" symbol="onTimerStart"/>
+<entry filename="C:\\Users\\Joop\\git\\Bigfont4metrics\\Big font 4 metrics\\.\\source\\Bigfont4metrics-semiround-215x180.mc" lineNum="91" pc="268435847" symbol="onTimerStart"/>
+<entry filename="C:\\Users\\Joop\\git\\Bigfont4metrics\\Big font 4 metrics\\.\\source\\Bigfont4metrics-semiround-215x180.mc" lineNum="92" pc="268435859" symbol="onTimerStart"/>
+<entry filename="C:\\Users\\Joop\\git\\Bigfont4metrics\\Big font 4 metrics\\.\\source\\Bigfont4metrics-semiround-215x180.mc" lineNum="97" pc="268435870" symbol="onTimerStop"/>
+<entry filename="C:\\Users\\Joop\\git\\Bigfont4metrics\\Big font 4 metrics\\.\\source\\Bigfont4metrics-semiround-215x180.mc" lineNum="98" pc="268435874" symbol="onTimerStop"/>
+<entry filename="C:\\Users\\Joop\\git\\Bigfont4metrics\\Big font 4 metrics\\.\\source\\Bigfont4metrics-semiround-215x180.mc" lineNum="99" pc="268435886" symbol="onTimerStop"/>
+<entry filename="C:\\Users\\Joop\\git\\Bigfont4metrics\\Big font 4 metrics\\.\\source\\Bigfont4metrics-semiround-215x180.mc" lineNum="104" pc="268435897" symbol="onTimerResume"/>
+<entry filename="C:\\Users\\Joop\\git\\Bigfont4metrics\\Big font 4 metrics\\.\\source\\Bigfont4metrics-semiround-215x180.mc" lineNum="105" pc="268435901" symbol="onTimerResume"/>
+<entry filename="C:\\Users\\Joop\\git\\Bigfont4metrics\\Big font 4 metrics\\.\\source\\Bigfont4metrics-semiround-215x180.mc" lineNum="110" pc="268435912" symbol="onTimerPause"/>
+<entry filename="C:\\Users\\Joop\\git\\Bigfont4metrics\\Big font 4 metrics\\.\\source\\Bigfont4metrics-semiround-215x180.mc" lineNum="111" pc="268435916" symbol="onTimerPause"/>
+<entry filename="C:\\Users\\Joop\\git\\Bigfont4metrics\\Big font 4 metrics\\.\\source\\Bigfont4metrics-semiround-215x180.mc" lineNum="118" pc="268435927" symbol="startStopPushed"/>
+<entry filename="C:\\Users\\Joop\\git\\Bigfont4metrics\\Big font 4 metrics\\.\\source\\Bigfont4metrics-semiround-215x180.mc" lineNum="119" pc="268435931" symbol="startStopPushed"/>
+<entry filename="C:\\Users\\Joop\\git\\Bigfont4metrics\\Big font 4 metrics\\.\\source\\Bigfont4metrics-semiround-215x180.mc" lineNum="120" pc="268435950" symbol="startStopPushed"/>
+<entry filename="C:\\Users\\Joop\\git\\Bigfont4metrics\\Big font 4 metrics\\.\\source\\Bigfont4metrics-semiround-215x180.mc" lineNum="125" pc="268435967" symbol="onTimerReset"/>
+<entry filename="C:\\Users\\Joop\\git\\Bigfont4metrics\\Big font 4 metrics\\.\\source\\Bigfont4metrics-semiround-215x180.mc" lineNum="127" pc="268435971" symbol="onTimerReset"/>
+<entry filename="C:\\Users\\Joop\\git\\Bigfont4metrics\\Big font 4 metrics\\.\\source\\Bigfont4metrics-semiround-215x180.mc" lineNum="133" pc="268435985" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\git\\Bigfont4metrics\\Big font 4 metrics\\.\\source\\Bigfont4metrics-semiround-215x180.mc" lineNum="134" pc="268435989" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\git\\Bigfont4metrics\\Big font 4 metrics\\.\\source\\Bigfont4metrics-semiround-215x180.mc" lineNum="135" pc="268436008" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\git\\Bigfont4metrics\\Big font 4 metrics\\.\\source\\Bigfont4metrics-semiround-215x180.mc" lineNum="136" pc="268436008" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\git\\Bigfont4metrics\\Big font 4 metrics\\.\\source\\Bigfont4metrics-semiround-215x180.mc" lineNum="137" pc="268436045" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\git\\Bigfont4metrics\\Big font 4 metrics\\.\\source\\Bigfont4metrics-semiround-215x180.mc" lineNum="142" pc="268436082" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\git\\Bigfont4metrics\\Big font 4 metrics\\.\\source\\Bigfont4metrics-semiround-215x180.mc" lineNum="143" pc="268436098" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\git\\Bigfont4metrics\\Big font 4 metrics\\.\\source\\Bigfont4metrics-semiround-215x180.mc" lineNum="144" pc="268436126" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\git\\Bigfont4metrics\\Big font 4 metrics\\.\\source\\Bigfont4metrics-semiround-215x180.mc" lineNum="145" pc="268436158" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\git\\Bigfont4metrics\\Big font 4 metrics\\.\\source\\Bigfont4metrics-semiround-215x180.mc" lineNum="149" pc="268436190" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\git\\Bigfont4metrics\\Big font 4 metrics\\.\\source\\Bigfont4metrics-semiround-215x180.mc" lineNum="150" pc="268436197" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\git\\Bigfont4metrics\\Big font 4 metrics\\.\\source\\Bigfont4metrics-semiround-215x180.mc" lineNum="151" pc="268436210" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\git\\Bigfont4metrics\\Big font 4 metrics\\.\\source\\Bigfont4metrics-semiround-215x180.mc" lineNum="152" pc="268436220" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\git\\Bigfont4metrics\\Big font 4 metrics\\.\\source\\Bigfont4metrics-semiround-215x180.mc" lineNum="153" pc="268436233" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\git\\Bigfont4metrics\\Big font 4 metrics\\.\\source\\Bigfont4metrics-semiround-215x180.mc" lineNum="154" pc="268436253" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\git\\Bigfont4metrics\\Big font 4 metrics\\.\\source\\Bigfont4metrics-semiround-215x180.mc" lineNum="155" pc="268436272" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\git\\Bigfont4metrics\\Big font 4 metrics\\.\\source\\Bigfont4metrics-semiround-215x180.mc" lineNum="156" pc="268436292" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\git\\Bigfont4metrics\\Big font 4 metrics\\.\\source\\Bigfont4metrics-semiround-215x180.mc" lineNum="157" pc="268436311" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\git\\Bigfont4metrics\\Big font 4 metrics\\.\\source\\Bigfont4metrics-semiround-215x180.mc" lineNum="158" pc="268436331" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\git\\Bigfont4metrics\\Big font 4 metrics\\.\\source\\Bigfont4metrics-semiround-215x180.mc" lineNum="159" pc="268436350" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\git\\Bigfont4metrics\\Big font 4 metrics\\.\\source\\Bigfont4metrics-semiround-215x180.mc" lineNum="160" pc="268436370" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\git\\Bigfont4metrics\\Big font 4 metrics\\.\\source\\Bigfont4metrics-semiround-215x180.mc" lineNum="164" pc="268436395" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\git\\Bigfont4metrics\\Big font 4 metrics\\.\\source\\Bigfont4metrics-semiround-215x180.mc" lineNum="165" pc="268436423" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\git\\Bigfont4metrics\\Big font 4 metrics\\.\\source\\Bigfont4metrics-semiround-215x180.mc" lineNum="168" pc="268436455" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\git\\Bigfont4metrics\\Big font 4 metrics\\.\\source\\Bigfont4metrics-semiround-215x180.mc" lineNum="169" pc="268436471" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\git\\Bigfont4metrics\\Big font 4 metrics\\.\\source\\Bigfont4metrics-semiround-215x180.mc" lineNum="170" pc="268436504" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\git\\Bigfont4metrics\\Big font 4 metrics\\.\\source\\Bigfont4metrics-semiround-215x180.mc" lineNum="171" pc="268436511" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\git\\Bigfont4metrics\\Big font 4 metrics\\.\\source\\Bigfont4metrics-semiround-215x180.mc" lineNum="172" pc="268436544" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\git\\Bigfont4metrics\\Big font 4 metrics\\.\\source\\Bigfont4metrics-semiround-215x180.mc" lineNum="174" pc="268436557" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\git\\Bigfont4metrics\\Big font 4 metrics\\.\\source\\Bigfont4metrics-semiround-215x180.mc" lineNum="175" pc="268436568" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\git\\Bigfont4metrics\\Big font 4 metrics\\.\\source\\Bigfont4metrics-semiround-215x180.mc" lineNum="176" pc="268436581" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\git\\Bigfont4metrics\\Big font 4 metrics\\.\\source\\Bigfont4metrics-semiround-215x180.mc" lineNum="177" pc="268436592" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\git\\Bigfont4metrics\\Big font 4 metrics\\.\\source\\Bigfont4metrics-semiround-215x180.mc" lineNum="178" pc="268436611" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\git\\Bigfont4metrics\\Big font 4 metrics\\.\\source\\Bigfont4metrics-semiround-215x180.mc" lineNum="179" pc="268436622" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\git\\Bigfont4metrics\\Big font 4 metrics\\.\\source\\Bigfont4metrics-semiround-215x180.mc" lineNum="181" pc="268436641" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\git\\Bigfont4metrics\\Big font 4 metrics\\.\\source\\Bigfont4metrics-semiround-215x180.mc" lineNum="185" pc="268436663" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\git\\Bigfont4metrics\\Big font 4 metrics\\.\\source\\Bigfont4metrics-semiround-215x180.mc" lineNum="186" pc="268436691" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\git\\Bigfont4metrics\\Big font 4 metrics\\.\\source\\Bigfont4metrics-semiround-215x180.mc" lineNum="189" pc="268436723" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\git\\Bigfont4metrics\\Big font 4 metrics\\.\\source\\Bigfont4metrics-semiround-215x180.mc" lineNum="190" pc="268436763" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\git\\Bigfont4metrics\\Big font 4 metrics\\.\\source\\Bigfont4metrics-semiround-215x180.mc" lineNum="191" pc="268436780" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\git\\Bigfont4metrics\\Big font 4 metrics\\.\\source\\Bigfont4metrics-semiround-215x180.mc" lineNum="192" pc="268436812" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\git\\Bigfont4metrics\\Big font 4 metrics\\.\\source\\Bigfont4metrics-semiround-215x180.mc" lineNum="195" pc="268436844" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\git\\Bigfont4metrics\\Big font 4 metrics\\.\\source\\Bigfont4metrics-semiround-215x180.mc" lineNum="202" pc="268436884" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\git\\Bigfont4metrics\\Big font 4 metrics\\.\\source\\Bigfont4metrics-semiround-215x180.mc" lineNum="203" pc="268436900" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\git\\Bigfont4metrics\\Big font 4 metrics\\.\\source\\Bigfont4metrics-semiround-215x180.mc" lineNum="206" pc="268436928" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\git\\Bigfont4metrics\\Big font 4 metrics\\.\\source\\Bigfont4metrics-semiround-215x180.mc" lineNum="207" pc="268436935" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\git\\Bigfont4metrics\\Big font 4 metrics\\.\\source\\Bigfont4metrics-semiround-215x180.mc" lineNum="208" pc="268436942" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\git\\Bigfont4metrics\\Big font 4 metrics\\.\\source\\Bigfont4metrics-semiround-215x180.mc" lineNum="209" pc="268436949" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\git\\Bigfont4metrics\\Big font 4 metrics\\.\\source\\Bigfont4metrics-semiround-215x180.mc" lineNum="211" pc="268436956" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\git\\Bigfont4metrics\\Big font 4 metrics\\.\\source\\Bigfont4metrics-semiround-215x180.mc" lineNum="212" pc="268436963" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\git\\Bigfont4metrics\\Big font 4 metrics\\.\\source\\Bigfont4metrics-semiround-215x180.mc" lineNum="213" pc="268436970" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\git\\Bigfont4metrics\\Big font 4 metrics\\.\\source\\Bigfont4metrics-semiround-215x180.mc" lineNum="214" pc="268436977" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\git\\Bigfont4metrics\\Big font 4 metrics\\.\\source\\Bigfont4metrics-semiround-215x180.mc" lineNum="216" pc="268436984" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\git\\Bigfont4metrics\\Big font 4 metrics\\.\\source\\Bigfont4metrics-semiround-215x180.mc" lineNum="217" pc="268436991" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\git\\Bigfont4metrics\\Big font 4 metrics\\.\\source\\Bigfont4metrics-semiround-215x180.mc" lineNum="218" pc="268436998" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\git\\Bigfont4metrics\\Big font 4 metrics\\.\\source\\Bigfont4metrics-semiround-215x180.mc" lineNum="219" pc="268437005" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\git\\Bigfont4metrics\\Big font 4 metrics\\.\\source\\Bigfont4metrics-semiround-215x180.mc" lineNum="221" pc="268437012" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\git\\Bigfont4metrics\\Big font 4 metrics\\.\\source\\Bigfont4metrics-semiround-215x180.mc" lineNum="222" pc="268437019" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\git\\Bigfont4metrics\\Big font 4 metrics\\.\\source\\Bigfont4metrics-semiround-215x180.mc" lineNum="223" pc="268437026" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\git\\Bigfont4metrics\\Big font 4 metrics\\.\\source\\Bigfont4metrics-semiround-215x180.mc" lineNum="224" pc="268437033" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\git\\Bigfont4metrics\\Big font 4 metrics\\.\\source\\Bigfont4metrics-semiround-215x180.mc" lineNum="227" pc="268437040" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\git\\Bigfont4metrics\\Big font 4 metrics\\.\\source\\Bigfont4metrics-semiround-215x180.mc" lineNum="228" pc="268437047" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\git\\Bigfont4metrics\\Big font 4 metrics\\.\\source\\Bigfont4metrics-semiround-215x180.mc" lineNum="229" pc="268437060" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\git\\Bigfont4metrics\\Big font 4 metrics\\.\\source\\Bigfont4metrics-semiround-215x180.mc" lineNum="233" pc="268437079" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\git\\Bigfont4metrics\\Big font 4 metrics\\.\\source\\Bigfont4metrics-semiround-215x180.mc" lineNum="234" pc="268437103" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\git\\Bigfont4metrics\\Big font 4 metrics\\.\\source\\Bigfont4metrics-semiround-215x180.mc" lineNum="235" pc="268437136" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\git\\Bigfont4metrics\\Big font 4 metrics\\.\\source\\Bigfont4metrics-semiround-215x180.mc" lineNum="236" pc="268437140" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\git\\Bigfont4metrics\\Big font 4 metrics\\.\\source\\Bigfont4metrics-semiround-215x180.mc" lineNum="238" pc="268437151" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\git\\Bigfont4metrics\\Big font 4 metrics\\.\\source\\Bigfont4metrics-semiround-215x180.mc" lineNum="239" pc="268437210" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\git\\Bigfont4metrics\\Big font 4 metrics\\.\\source\\Bigfont4metrics-semiround-215x180.mc" lineNum="240" pc="268437220" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\git\\Bigfont4metrics\\Big font 4 metrics\\.\\source\\Bigfont4metrics-semiround-215x180.mc" lineNum="242" pc="268437293" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\git\\Bigfont4metrics\\Big font 4 metrics\\.\\source\\Bigfont4metrics-semiround-215x180.mc" lineNum="243" pc="268437342" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\git\\Bigfont4metrics\\Big font 4 metrics\\.\\source\\Bigfont4metrics-semiround-215x180.mc" lineNum="246" pc="268437394" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\git\\Bigfont4metrics\\Big font 4 metrics\\.\\source\\Bigfont4metrics-semiround-215x180.mc" lineNum="247" pc="268437434" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\git\\Bigfont4metrics\\Big font 4 metrics\\.\\source\\Bigfont4metrics-semiround-215x180.mc" lineNum="248" pc="268437441" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\git\\Bigfont4metrics\\Big font 4 metrics\\.\\source\\Bigfont4metrics-semiround-215x180.mc" lineNum="249" pc="268437452" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\git\\Bigfont4metrics\\Big font 4 metrics\\.\\source\\Bigfont4metrics-semiround-215x180.mc" lineNum="251" pc="268437462" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\git\\Bigfont4metrics\\Big font 4 metrics\\.\\source\\Bigfont4metrics-semiround-215x180.mc" lineNum="252" pc="268437522" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\git\\Bigfont4metrics\\Big font 4 metrics\\.\\source\\Bigfont4metrics-semiround-215x180.mc" lineNum="255" pc="268437574" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\git\\Bigfont4metrics\\Big font 4 metrics\\.\\source\\Bigfont4metrics-semiround-215x180.mc" lineNum="256" pc="268437581" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\git\\Bigfont4metrics\\Big font 4 metrics\\.\\source\\Bigfont4metrics-semiround-215x180.mc" lineNum="257" pc="268437588" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\git\\Bigfont4metrics\\Big font 4 metrics\\.\\source\\Bigfont4metrics-semiround-215x180.mc" lineNum="260" pc="268437621" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\git\\Bigfont4metrics\\Big font 4 metrics\\.\\source\\Bigfont4metrics-semiround-215x180.mc" lineNum="261" pc="268437634" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\git\\Bigfont4metrics\\Big font 4 metrics\\.\\source\\Bigfont4metrics-semiround-215x180.mc" lineNum="262" pc="268437650" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\git\\Bigfont4metrics\\Big font 4 metrics\\.\\source\\Bigfont4metrics-semiround-215x180.mc" lineNum="263" pc="268437666" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\git\\Bigfont4metrics\\Big font 4 metrics\\.\\source\\Bigfont4metrics-semiround-215x180.mc" lineNum="264" pc="268437682" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\git\\Bigfont4metrics\\Big font 4 metrics\\.\\source\\Bigfont4metrics-semiround-215x180.mc" lineNum="265" pc="268437698" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\git\\Bigfont4metrics\\Big font 4 metrics\\.\\source\\Bigfont4metrics-semiround-215x180.mc" lineNum="267" pc="268437717" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\git\\Bigfont4metrics\\Big font 4 metrics\\.\\source\\Bigfont4metrics-semiround-215x180.mc" lineNum="268" pc="268437733" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\git\\Bigfont4metrics\\Big font 4 metrics\\.\\source\\Bigfont4metrics-semiround-215x180.mc" lineNum="269" pc="268437749" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\git\\Bigfont4metrics\\Big font 4 metrics\\.\\source\\Bigfont4metrics-semiround-215x180.mc" lineNum="270" pc="268437765" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\git\\Bigfont4metrics\\Big font 4 metrics\\.\\source\\Bigfont4metrics-semiround-215x180.mc" lineNum="271" pc="268437781" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\git\\Bigfont4metrics\\Big font 4 metrics\\.\\source\\Bigfont4metrics-semiround-215x180.mc" lineNum="273" pc="268437794" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\git\\Bigfont4metrics\\Big font 4 metrics\\.\\source\\Bigfont4metrics-semiround-215x180.mc" lineNum="274" pc="268437846" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\git\\Bigfont4metrics\\Big font 4 metrics\\.\\source\\Bigfont4metrics-semiround-215x180.mc" lineNum="275" pc="268437857" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\git\\Bigfont4metrics\\Big font 4 metrics\\.\\source\\Bigfont4metrics-semiround-215x180.mc" lineNum="277" pc="268437911" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\git\\Bigfont4metrics\\Big font 4 metrics\\.\\source\\Bigfont4metrics-semiround-215x180.mc" lineNum="280" pc="268437915" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\git\\Bigfont4metrics\\Big font 4 metrics\\.\\source\\Bigfont4metrics-semiround-215x180.mc" lineNum="282" pc="268437978" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\git\\Bigfont4metrics\\Big font 4 metrics\\.\\source\\Bigfont4metrics-semiround-215x180.mc" lineNum="285" pc="268438030" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\git\\Bigfont4metrics\\Big font 4 metrics\\.\\source\\Bigfont4metrics-semiround-215x180.mc" lineNum="286" pc="268438079" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\git\\Bigfont4metrics\\Big font 4 metrics\\.\\source\\Bigfont4metrics-semiround-215x180.mc" lineNum="291" pc="268438132" symbol="fmtPace"/>
+<entry filename="C:\\Users\\Joop\\git\\Bigfont4metrics\\Big font 4 metrics\\.\\source\\Bigfont4metrics-semiround-215x180.mc" lineNum="292" pc="268438136" symbol="fmtPace"/>
+<entry filename="C:\\Users\\Joop\\git\\Bigfont4metrics\\Big font 4 metrics\\.\\source\\Bigfont4metrics-semiround-215x180.mc" lineNum="293" pc="268438158" symbol="fmtPace"/>
 </pcToLineNum>
 <symbolTable>
 <entry id="9" object="true" symbol="Bigfont4metricsApp"/>
 <entry id="8389124" method="true" symbol="onUpdate"/>
-<entry id="8389349" symbol="justification"/>
 <entry id="8389748" method="true" symbol="onTimerStop"/>
-<entry id="44" method="true" symbol="TopLeftLayout"/>
 <entry field="true" id="8388611" module="true" symbol="Toybox"/>
 <entry field="true" id="31" symbol="mLastLapTimerTime"/>
 <entry field="true" id="18" symbol="Pace5"/>
@@ -187,16 +154,14 @@
 <entry field="true" id="24" symbol="mStoppedDistance"/>
 <entry field="true" id="21" symbol="mTimerRunning"/>
 <entry field="true" id="8389138" symbol="label"/>
-<entry id="46" method="true" symbol="BottomLeftLayout"/>
 <entry id="8389280" method="true" symbol="getInitialView"/>
 <entry field="true" id="12" symbol="unitP"/>
 <entry field="true" id="13" symbol="unitD"/>
-<entry id="43" method="true" symbol="MainLayout"/>
 <entry field="true" id="30" symbol="mLastLapStoppedDistMarker"/>
 <entry id="8388769" module="true" object="true" symbol="Rez"/>
 <entry id="8389752" method="true" symbol="onTimerReset"/>
 <entry id="8388702" method="true" symbol="initialize"/>
-<entry field="true" id="50" symbol="AppName"/>
+<entry field="true" id="45" symbol="AppName"/>
 <entry field="true" id="26" symbol="mLaps"/>
 <entry field="true" id="22" symbol="mStartStopPushed"/>
 <entry id="34" method="true" symbol="startStopPushed"/>
@@ -207,30 +172,23 @@
 <entry field="true" id="40" symbol="Garmin3"/>
 <entry field="true" id="39" symbol="Garmin2"/>
 <entry field="true" id="29" symbol="mLastLapStoppedTimeMarker"/>
-<entry field="true" id="8389065" symbol="locY"/>
-<entry field="true" id="8389064" symbol="locX"/>
 <entry id="8388771" module="true" object="true" symbol="Drawables"/>
 <entry id="8389137" method="true" symbol="compute"/>
 <entry field="true" id="19" symbol="uRoundedPace"/>
 <entry id="8389747" method="true" symbol="onTimerStart"/>
 <entry field="true" id="27" symbol="mLastLapDistMarker"/>
-<entry id="45" method="true" symbol="TopRightLayout"/>
 <entry id="10" object="true" symbol="DatarunView"/>
-<entry id="8389348" symbol="font"/>
-<entry id="8389347" symbol="color"/>
 <entry field="true" id="23" symbol="mStoppedTime"/>
-<entry field="true" id="48" symbol="AppVersion"/>
+<entry field="true" id="43" symbol="AppVersion"/>
 <entry id="8389750" method="true" symbol="onTimerResume"/>
 <entry field="true" id="32" symbol="mLastLapElapsedDistance"/>
 <entry field="true" id="33" symbol="mLastLapMovingSpeed"/>
 <entry id="37" module="true" symbol="Layouts"/>
-<entry field="true" id="49" symbol="lRoundedPace"/>
-<entry id="47" method="true" symbol="BottomRightLayout"/>
+<entry field="true" id="44" symbol="lRoundedPace"/>
 <entry field="true" id="11" symbol="uHrZones"/>
 <entry id="8389749" method="true" symbol="onTimerPause"/>
 <entry id="8390088" module="true" object="true" symbol="JsonData"/>
 <entry field="true" id="20" symbol="uTargetPaceMetric"/>
-<entry field="true" id="8389063" symbol="identifier"/>
 <entry field="true" id="25" symbol="mPrevElapsedDistance"/>
 <entry id="36" module="true" symbol="Menus"/>
 <entry field="true" id="28" symbol="mLastLapTimeMarker"/>
@@ -245,60 +203,38 @@
 <entry endPc="268435966" name="info" stackId="1" startPc="268435931"/>
 <entry endPc="268436657" name="paceDeviation" stackId="8" startPc="268436568"/>
 <entry endPc="268436660" name="mTargetSpeed" stackId="7" startPc="268436504"/>
-<entry endPc="268438128" name="fCurrentPace" stackId="32" startPc="268435989"/>
-<entry endPc="268438128" name="Averagespeedinmpersec" stackId="31" startPc="268435989"/>
-<entry endPc="268438128" name="xtbl" stackId="19" startPc="268435989"/>
-<entry endPc="268438128" name="ytbr" stackId="24" startPc="268435989"/>
-<entry endPc="268438128" name="mDistance" stackId="29" startPc="268435989"/>
-<entry endPc="268438128" name="fTimer" stackId="27" startPc="268435989"/>
-<entry endPc="268438128" name="fTimerSecs" stackId="26" startPc="268435989"/>
-<entry endPc="268438128" name="ytbl" stackId="20" startPc="268435989"/>
-<entry endPc="268438128" name="xbr" stackId="21" startPc="268435989"/>
-<entry endPc="268438128" name="yur" stackId="14" startPc="268435989"/>
-<entry endPc="268438128" name="Garminfont3" stackId="5" startPc="268435989"/>
-<entry endPc="268438128" name="fString" stackId="30" startPc="268435989"/>
-<entry endPc="268438128" name="Garminfont2" stackId="4" startPc="268435989"/>
-<entry endPc="268438128" name="mColour" stackId="3" startPc="268435989"/>
-<entry endPc="268438128" name="x" stackId="28" startPc="268435989"/>
-<entry endPc="268438128" name="xbl" stackId="17" startPc="268435989"/>
-<entry endPc="268438128" name="xtur" stackId="15" startPc="268435989"/>
-<entry endPc="268438128" name="yul" stackId="10" startPc="268435989"/>
-<entry endPc="268438128" name="xtul" stackId="11" startPc="268435989"/>
-<entry endPc="268438128" name="ytur" stackId="16" startPc="268435989"/>
-<entry endPc="268438128" name="mTimerTime" stackId="25" startPc="268435989"/>
-<entry endPc="268438128" name="ytul" stackId="12" startPc="268435989"/>
-<entry endPc="268438128" name="xur" stackId="13" startPc="268435989"/>
-<entry endPc="268438128" name="info" stackId="2" startPc="268435989"/>
-<entry endPc="268438128" name="ybr" stackId="22" startPc="268435989"/>
-<entry endPc="268438128" name="mCurrentHeartRate" stackId="6" startPc="268435989"/>
-<entry endPc="268438128" name="xul" stackId="9" startPc="268435989"/>
-<entry endPc="268438128" name="xtbr" stackId="23" startPc="268435989"/>
-<entry endPc="268438128" name="ybl" stackId="18" startPc="268435989"/>
-<entry endPc="268438129" name="dc" stackId="1" startPc="268435985"/>
-<entry endPc="268438207" name="s" stackId="2" startPc="268438133"/>
-<entry endPc="268438208" name="secs" stackId="1" startPc="268438129"/>
-<entry endPc="268438853" name="rez_cmp_local_bitmap_label" stackId="3" startPc="268438220"/>
-<entry endPc="268438853" name="rez_cmp_local_bitmap_value_fontHeight" stackId="6" startPc="268438220"/>
-<entry endPc="268438853" name="rez_cmp_local_bitmap_value" stackId="5" startPc="268438220"/>
-<entry endPc="268438853" name="rez_cmp_local_custom_drawable_VFI2S7N22IQPZQIDMBTC" stackId="2" startPc="268438220"/>
-<entry endPc="268438853" name="rez_cmp_local_bitmap_label_fontHeight" stackId="4" startPc="268438220"/>
-<entry endPc="268438854" name="dc" stackId="1" startPc="268438208"/>
-<entry endPc="268439193" name="rez_cmp_local_bitmap_label" stackId="3" startPc="268438866"/>
-<entry endPc="268439193" name="rez_cmp_local_bitmap_value" stackId="4" startPc="268438866"/>
-<entry endPc="268439193" name="rez_cmp_local_custom_drawable_IXWFS882SQTISN09OVX0" stackId="2" startPc="268438866"/>
-<entry endPc="268439194" name="dc" stackId="1" startPc="268438854"/>
-<entry endPc="268439533" name="rez_cmp_local_bitmap_label" stackId="3" startPc="268439206"/>
-<entry endPc="268439533" name="rez_cmp_local_bitmap_value" stackId="4" startPc="268439206"/>
-<entry endPc="268439533" name="rez_cmp_local_custom_drawable_D6B1F92QMYYCNFADX78A" stackId="2" startPc="268439206"/>
-<entry endPc="268439534" name="dc" stackId="1" startPc="268439194"/>
-<entry endPc="268439873" name="rez_cmp_local_bitmap_label" stackId="3" startPc="268439546"/>
-<entry endPc="268439873" name="rez_cmp_local_bitmap_value" stackId="4" startPc="268439546"/>
-<entry endPc="268439873" name="rez_cmp_local_custom_drawable_A6RRI4MQVXZ59NM0HIJT" stackId="2" startPc="268439546"/>
-<entry endPc="268439874" name="dc" stackId="1" startPc="268439534"/>
-<entry endPc="268440213" name="rez_cmp_local_bitmap_label" stackId="3" startPc="268439886"/>
-<entry endPc="268440213" name="rez_cmp_local_bitmap_value" stackId="4" startPc="268439886"/>
-<entry endPc="268440213" name="rez_cmp_local_custom_drawable_5T9LR773BY4CQCTYWXZ1" stackId="2" startPc="268439886"/>
-<entry endPc="268440214" name="dc" stackId="1" startPc="268439874"/>
+<entry endPc="268438131" name="fCurrentPace" stackId="32" startPc="268435989"/>
+<entry endPc="268438131" name="Averagespeedinmpersec" stackId="31" startPc="268435989"/>
+<entry endPc="268438131" name="xtbl" stackId="19" startPc="268435989"/>
+<entry endPc="268438131" name="ytbr" stackId="24" startPc="268435989"/>
+<entry endPc="268438131" name="mDistance" stackId="29" startPc="268435989"/>
+<entry endPc="268438131" name="fTimer" stackId="27" startPc="268435989"/>
+<entry endPc="268438131" name="fTimerSecs" stackId="26" startPc="268435989"/>
+<entry endPc="268438131" name="ytbl" stackId="20" startPc="268435989"/>
+<entry endPc="268438131" name="xbr" stackId="21" startPc="268435989"/>
+<entry endPc="268438131" name="yur" stackId="14" startPc="268435989"/>
+<entry endPc="268438131" name="Garminfont3" stackId="5" startPc="268435989"/>
+<entry endPc="268438131" name="fString" stackId="30" startPc="268435989"/>
+<entry endPc="268438131" name="Garminfont2" stackId="4" startPc="268435989"/>
+<entry endPc="268438131" name="mColour" stackId="3" startPc="268435989"/>
+<entry endPc="268438131" name="x" stackId="28" startPc="268435989"/>
+<entry endPc="268438131" name="xbl" stackId="17" startPc="268435989"/>
+<entry endPc="268438131" name="xtur" stackId="15" startPc="268435989"/>
+<entry endPc="268438131" name="yul" stackId="10" startPc="268435989"/>
+<entry endPc="268438131" name="xtul" stackId="11" startPc="268435989"/>
+<entry endPc="268438131" name="ytur" stackId="16" startPc="268435989"/>
+<entry endPc="268438131" name="mTimerTime" stackId="25" startPc="268435989"/>
+<entry endPc="268438131" name="ytul" stackId="12" startPc="268435989"/>
+<entry endPc="268438131" name="xur" stackId="13" startPc="268435989"/>
+<entry endPc="268438131" name="info" stackId="2" startPc="268435989"/>
+<entry endPc="268438131" name="ybr" stackId="22" startPc="268435989"/>
+<entry endPc="268438131" name="mCurrentHeartRate" stackId="6" startPc="268435989"/>
+<entry endPc="268438131" name="xul" stackId="9" startPc="268435989"/>
+<entry endPc="268438131" name="xtbr" stackId="23" startPc="268435989"/>
+<entry endPc="268438131" name="ybl" stackId="18" startPc="268435989"/>
+<entry endPc="268438132" name="dc" stackId="1" startPc="268435985"/>
+<entry endPc="268438210" name="s" stackId="2" startPc="268438136"/>
+<entry endPc="268438211" name="secs" stackId="1" startPc="268438132"/>
 </localVars>
 <annotations/>
 <functions>
@@ -341,26 +277,6 @@
 <param id="secs"/>
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" name="MainLayout" parent="Layouts">
-<param id="dc"/>
-<documentation><![CDATA[<div class="description"> Draw the layout<br/> param The context<br/></div>]]></documentation>
-</functionEntry>
-<functionEntry accessMode="public" name="TopLeftLayout" parent="Layouts">
-<param id="dc"/>
-<documentation><![CDATA[<div class="description"> Draw the layout<br/> param The context<br/></div>]]></documentation>
-</functionEntry>
-<functionEntry accessMode="public" name="TopRightLayout" parent="Layouts">
-<param id="dc"/>
-<documentation><![CDATA[<div class="description"> Draw the layout<br/> param The context<br/></div>]]></documentation>
-</functionEntry>
-<functionEntry accessMode="public" name="BottomLeftLayout" parent="Layouts">
-<param id="dc"/>
-<documentation><![CDATA[<div class="description"> Draw the layout<br/> param The context<br/></div>]]></documentation>
-</functionEntry>
-<functionEntry accessMode="public" name="BottomRightLayout" parent="Layouts">
-<param id="dc"/>
-<documentation><![CDATA[<div class="description"> Draw the layout<br/> param The context<br/></div>]]></documentation>
-</functionEntry>
 </functions>
 <dataEntryOffsetMappings>
 <dataEntry offset="87" parentId="" symbolId="globals" type="module"/>
@@ -372,6 +288,6 @@
 <dataEntry offset="665" parentId="Rez" symbolId="Fonts" type="module"/>
 <dataEntry offset="728" parentId="Rez" symbolId="JsonData" type="module"/>
 <dataEntry offset="759" parentId="Rez" symbolId="Layouts" type="module"/>
-<dataEntry offset="830" parentId="Rez" symbolId="Strings" type="module"/>
+<dataEntry offset="790" parentId="Rez" symbolId="Strings" type="module"/>
 </dataEntryOffsetMappings>
 </debugInfo>
